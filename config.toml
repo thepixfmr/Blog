@@ -1,4 +1,4 @@
-baseURL = "https://wapaia.com/"
+baseURL = "https://wapaia.netlify.app/"
 languageCode = "en-us"
 title = "WAPAIA"
 theme = "tale"
